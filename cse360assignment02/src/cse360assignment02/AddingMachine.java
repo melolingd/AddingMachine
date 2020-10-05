@@ -4,6 +4,7 @@ public class AddingMachine {
 	 private int total;			// Declare private variable total
 	 private String history;	// Declare private variable history
 	  
+	  // Method to set values to private data
 	  public AddingMachine () {
 	    total = 0;  		// set total to base case
 	    history = "0 ";		// set history to base case
